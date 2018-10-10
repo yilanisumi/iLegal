@@ -1,0 +1,100 @@
+%FDF-1.2
+%‚„œ”
+1 0 obj 
+<<
+/FDF 
+<<
+/Fields [
+<<
+/Kids [
+<<
+/Kids [
+<<
+/V /
+/T (FieldName_cb[0])
+>> 
+<<
+/V ()
+/T (AttyDate[0])
+>> 
+<<
+/V (somename)
+/T (AttyName[0])
+>> 
+<<
+/V ()
+/T (CaseNumber_ft[0])
+>> 
+<<
+/V ()
+/T (YourName[0])
+>> 
+<<
+/V /
+/T (Save_bt[0])
+>> 
+<<
+/V ()
+/T (OtherSpecify_tf[0])
+>> 
+<<
+/V /
+/T (Print_bt[0])
+>> 
+<<
+/V /
+/T (Reset_bt[0])
+>>]
+/T (Page2[0])
+>> 
+<<
+/Kids [
+<<
+/V /
+/T (FormADOPT200_cb[0])
+>> 
+<<
+/V ()
+/T (item2bname_tf[0])
+>> 
+<<
+/V ()
+/T (item2aname_tf[0])
+>> 
+<<
+/V ()
+/T (T105[1])
+>> 
+<<
+/V ()
+/T (T242[1])
+>> 
+<<
+/V ()
+/T (T242[4])
+>> 
+<<
+/V /
+/T (RadioButtonList[0])
+>> 
+<<
+/V ()
+/T (T11[0])
+>> 
+<<
+/V ()
+/T (item2bname2_tf[0])
+>>]
+/T (Page1[0])
+>>]
+/T (topmostSubform[0])
+>>]
+>>
+>>
+endobj 
+trailer
+
+<<
+/Root 1 0 R
+>>
+%%EOF
